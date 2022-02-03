@@ -1,1 +1,1 @@
-# spaceDodger-game
+# space-dodger-game
